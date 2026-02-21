@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-🔭 I’m currently working on ...
-
-#Billme
-German/Austria based invoicing - local first 
 
 <!--
 **bl4ckh4nd/bl4ckh4nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
