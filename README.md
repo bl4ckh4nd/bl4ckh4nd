@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I build software for businesses, from ERP integrations to desktop and cloud apps. A few of my projects are open source:
-
 [LinkedIn](https://www.linkedin.com/in/mariusbl/)
+
+I build software for businesses, from ERP integrations to desktop and cloud apps. A few of my projects are open source:
 
 ### Projects
 
