@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I build local-first and self-hosted software, mostly for small businesses in Germany.
+I build software for businesses, from ERP integrations to desktop and cloud apps. A few of my projects are open source:
 
 [LinkedIn](https://www.linkedin.com/in/mariusbl/)
 
