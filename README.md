@@ -9,7 +9,6 @@ I build local-first and self-hosted software, mostly for small businesses in Ger
 | Project | Description | Stack |
 |---|---|---|
 | [billme](https://github.com/bl4ckh4nd/billme) | Local-first invoicing and accounting for German small businesses: ZUGFeRD e-invoices, Anlage EÜR, DATEV export. Desktop app or self-hosted server. | TypeScript, Electron, PGlite |
-| [Billux](https://github.com/bl4ckh4nd/Billux) | Self-hosted, open-source invoice management for German businesses with ZUGFeRD support. | TypeScript, React |
 | [SimpleCRMPublic](https://github.com/bl4ckh4nd/SimpleCRMPublic) | Desktop CRM for customers, deals, tasks and appointments, with optional JTL import. | TypeScript, Electron, SQLite |
 | [Rebound360App](https://github.com/bl4ckh4nd/Rebound360App) | Desktop app for supplier returns and procurement, integrated with JTL-Wawi. | TypeScript, Electron |
 
@@ -29,26 +28,8 @@ I build local-first and self-hosted software, mostly for small businesses in Ger
 |---|---|---|
 | [react-sherpa](https://github.com/bl4ckh4nd/react-sherpa) | Maintained fork of react-joyride for guided tours, rebuilt with hooks and Floating UI. | TypeScript, React |
 
-### Smaller projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [3D-Packer](https://github.com/bl4ckh4nd/3D-Packer) | Packs products into the best-fitting box and shows the result in 3D. | JavaScript |
-| [LocalNoteApp](https://github.com/bl4ckh4nd/LocalNoteApp) | Simple rich-text note app that stores notes locally, in the browser or as a Tauri desktop app. | JavaScript |
-| [OSS_Directory](https://github.com/bl4ckh4nd/OSS_Directory) | Searchable directory of open-source projects with language filters. | TypeScript, React |
-| [docs](https://github.com/bl4ckh4nd/docs) | Documentation site built on Mintlify. | MDX |
-
 ### Forks
 
 | Project | Description |
 |---|---|
-| [wawicrm](https://github.com/bl4ckh4nd/wawicrm) | CRM for JTL-Wawi, based on Twenty CRM. |
-| [vanna_ng](https://github.com/bl4ckh4nd/vanna_ng) | Chat with your SQL database: text-to-SQL with LLMs and RAG. |
 | [anchor](https://github.com/bl4ckh4nd/anchor) | Offline-first, self-hostable note-taking app. |
-| [scibly](https://github.com/bl4ckh4nd/scibly) | Open-source, AI-native learning platform. |
-| [Prepper_Log](https://github.com/bl4ckh4nd/Prepper_Log) | Offline-first PWA for tracking emergency supplies and pantry stock. |
-| [youtube-shorts-pipeline](https://github.com/bl4ckh4nd/youtube-shorts-pipeline) | Automated YouTube Shorts pipeline, from news to script, visuals, voiceover and upload. |
-| [openwolf-copilot](https://github.com/bl4ckh4nd/openwolf-copilot) | Middleware for Claude Code that sends sharper context with fewer tokens. |
-| [cc-sessions](https://github.com/bl4ckh4nd/cc-sessions) | Extension set for Claude Code: hooks, subagents, commands and task management. |
-| [react-joyride](https://github.com/bl4ckh4nd/react-joyride) | Guided tours for React apps (upstream of react-sherpa). |
-| [instabot](https://github.com/bl4ckh4nd/instabot) | Instagram bot for Android devices, powered by UIAutomator2. |
